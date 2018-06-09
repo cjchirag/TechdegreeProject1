@@ -10,7 +10,7 @@ import UIKit
  -> Firstly, I have added the experienced players with "hasExperience" = true in experiencedPlayers array and inexperienced players in the inExperiencedPlayers array.
  -> All players are appended into the players array. 
  -> I have used a function to add players in teams. The function adds experienced players according to the total of experienced players in the experiencedPlayers array and dividing the number by the number of teams. With this, the  count is determined to allocate equal number of experienced players in the teams. After adding experienced players, the function adds inExperiencedPlayers into the team with the condition of not exceeding the maximum number of players in the team.
- -> 
+ ->
  
  */
 
